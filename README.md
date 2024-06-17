@@ -1,5 +1,6 @@
 # Password-Generator
-## [Demo Password Generator](https://dashboard-ruddy-ten-93.vercel.app/)
+## [Demo Password Generator](https://p-stn.github.io/password-generator-/)
+
 
 ![pass](https://github.com/p-stn/password-generator-/assets/63667741/0abbed63-642d-4a02-a1d5-66839c25dfe2)
 
